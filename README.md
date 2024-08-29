@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper Game in CPP
+Minesweeper Game in CPP using SFML Graphics Library
